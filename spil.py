@@ -1,7 +1,6 @@
-print('spil')
+print('spiler diller')
 try:
   print('virker det her')
 except:
-  print('det tror jeg ikke')
+  print('nej')
 
-print(lkcvcj)
